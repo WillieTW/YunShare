@@ -1,6 +1,6 @@
-### YunShare Introduction
-===========================
+YunShare Introduction
+======================
 
-### License
-===========================
+License
+========
 - YunShare Server core:The MIT License(http://opensource.org/licenses/MIT)
